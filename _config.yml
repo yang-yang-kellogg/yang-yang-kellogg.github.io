@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yang Yang"
   avatar           : "profile.png"
-  bio              : "Research Assistant Professor at Kellogg School of Management, Northwestern University"
+  bio              : "Research Assistant Professor/ Kellogg School of Management/ Northwestern University"
   location         : "Evanston, IL"
   employer         :
   pubmed           :
@@ -96,11 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/yang-yang-7665a7167/"
   orcid            :
@@ -109,7 +109,7 @@ author:
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
